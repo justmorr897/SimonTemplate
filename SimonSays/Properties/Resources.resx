@@ -12443,4 +12443,8 @@
         AKKKKACiiigAooooAKKKKAP/2Q==
 </value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lobby_classic_game" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lobby-classic-game.mp3;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
